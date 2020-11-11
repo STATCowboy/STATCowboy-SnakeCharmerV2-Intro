@@ -1,10 +1,10 @@
 #
 # Author: Jamey Johnston
-# Title: Code Like a Snake Charmer: Introduction to Python!
+# Title: Code Like a Snake Charmer v2: Introduction to Python!
 # Date: 2020/11/07
 # Blog: http://www.STATCowboy.com
 # Twitter: @STATCowboy
-# Git Repo: https://github.com/STATCowboy/SnakeCharmer-Intro
+# Git Repo: https://github.com/STATCowboy/STATCowboy-SnakeCharmerV2-Intro 
 #
 
 #

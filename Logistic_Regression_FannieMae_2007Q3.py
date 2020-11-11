@@ -1,3 +1,12 @@
+#
+# Author: Jamey Johnston
+# Title: Code Like a Snake Charmer v2: Introduction to Python!
+# Date: 2020/11/07
+# Blog: http://www.STATCowboy.com
+# Twitter: @STATCowboy
+# Git Repo: https://github.com/STATCowboy/STATCowboy-SnakeCharmerV2-Intro 
+#
+
 import numpy as np
 import pandas as pd
 import seaborn as sb
@@ -16,6 +25,7 @@ from sklearn.metrics import confusion_matrix
 
 from settings import APP_DATA
 
+# Function to categorize Credit Scores
 def creditScoreClass(score):
     scr = (score[0])
     if scr <= 579:
