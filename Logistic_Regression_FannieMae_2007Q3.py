@@ -35,9 +35,9 @@ def creditScoreClass(score):
     elif scr <= 739 and scr > 669:
         return "Good"
     elif scr <= 799 and scr > 739:
-        return "Good"
+        return "Very Good"
     elif scr > 799:
-        return "Good"
+        return "Exceptional"
     else:
         return "undef"
 
