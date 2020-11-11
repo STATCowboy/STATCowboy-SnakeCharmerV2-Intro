@@ -1,0 +1,21 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 116130 entries, 0 to 188154
+Data columns (total 15 columns):
+ #   Column                  Non-Null Count   Dtype     Categorical
+---  ------                  --------------   -----     -----------
+ 0   Mortgage Insurance%     116130 non-null  float64   No
+ 1   Number of Units         116130 non-null  float64   No
+ 2   Occupancy Status        116130 non-null  object    Yes
+ 3   Original CLTV           116130 non-null  float64   No
+ 4   DTI ratio               116130 non-null  float64   No
+ 5   Original LTV            116130 non-null  float64   No
+ 6   Original Interest Rate  116130 non-null  float64   No
+ 7   Channel                 116130 non-null  object    Yes
+ 8   Property State          116130 non-null  object    Yes
+ 9   Loan Purpose            116130 non-null  object    Yes
+ 10  Number of Borrowers     116130 non-null  float64   No
+ 11  Loan Age                116130 non-null  int64     No
+ 12  LoanDefault             116130 non-null  object    Yes (make 0/1)
+ 13  Credit Score            116130 non-null  float64   Yes
+dtypes: float64(7), int64(1), object(5), uint8(2)
+memory usage: 17.6+ MB

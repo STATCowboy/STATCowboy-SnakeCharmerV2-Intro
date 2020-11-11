@@ -1,0 +1,14 @@
+conda create --name pass2020intro python=3.7
+conda activate pass2020intro
+conda install seaborn
+conda install xlrd
+conda install scikit-learn
+conda install notebook
+conda install pylint
+conda install geopandas
+conda install -c conda-forge descartes
+conda install pyodbc
+
+pip install tensorflow
+pip install keras
+pip install xgboost
